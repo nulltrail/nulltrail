@@ -29,14 +29,6 @@
 
 **Collaborating on AI-driven testing & automation projects** • **Open to innovative opportunities**
 
-<a href="mailto:satiz.ramamoorthy@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=nulltrail&style=for-the-badge&color=blueviolet&label=Profile%20Views" alt="Profile Views"/>
-
 </div>
 
 <br>
@@ -63,3 +55,15 @@
   </table>
 
 </div>
+
+<br>
+<div align="center">
+<a href="mailto:satiz.ramamoorthy@gmail.com">
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch"/>
+</a>
+
+<a>
+  <img src="https://komarev.com/ghpvc/?username=nulltrail&style=for-the-badge&color=blueviolet&label=Profile%20Views" alt="Profile Views"/>
+</a>
+
+
