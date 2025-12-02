@@ -37,15 +37,14 @@
 
   <table>
     <tr>
-  <!-- Overall Stats -->
+  <!-- Overall Stats 
   <td align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nulltrail&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_title=true" width="300"/>
   </td>
-
-  <!-- Top Languages -->
+     
   <td align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulltrail&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="300"/>
-      </td>
+      </td> -->
 
   <!-- Streak Stats -->
   <td align="center">
@@ -56,7 +55,14 @@
 
 </div>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nulltrail/nulltail/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nulltrail/nulltrail/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/nulltrail/nulltrail/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
+
+<br><br>
+
 <div align="center">
 <a href="mailto:satiz.ramamoorthy@gmail.com">
   <img src="https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch"/>
