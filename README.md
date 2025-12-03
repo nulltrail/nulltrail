@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="200">
+<img src="https://raw.githubusercontent.com/nulltrail/nulltrail/main/assets/Pengu.gif" width="200">
 <br><br>
 <div style="text-align: center;">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&duration=2000&pause=1000&color=228800&background=04010E00&center=true&vCenter=true&multiline=true&width=700&height=50&multiline=true&lines=Hello+There!+I'm+Sathish+Kumar">
