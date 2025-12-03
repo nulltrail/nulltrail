@@ -1,6 +1,12 @@
- 
-<h2 align="center"> Hey there,  I am Sathish 👋 👋 
-<br><br>🚀 Software Development Engineer in Test | AI & Automation Enthusiast
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRib3Z5ZHM0d3dveWJoaG5zNmM1dGZidjlydnJva3FsaGY5dnVmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="200">
+<br><br>
+<div style="text-align: center;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&duration=2000&pause=1000&color=228800&background=04010E00&center=true&vCenter=true&multiline=true&width=700&height=50&multiline=true&lines=Hello+There!+I'm+Sathish+Kumar">
+ </div>   
+</div> 
+<h2 align="center"> 
+🚀 Software Development Engineer in Test | AI & Automation Enthusiast
 <br><br>
 <a href="https://www.linkedin.com/in/sathish-kumar-27525317b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
